@@ -2,7 +2,7 @@
 
 Turn any resume into clean, structured JSON. Upload a PDF or paste raw text, and Google Gemini extracts the name, contact details, skills, education, experience and projects.
 
-**Live demo:** _add your Vercel link here after deploying_
+**Live demo:** https://resume-parser-gemini-two.vercel.app/
 
 ## Features
 
